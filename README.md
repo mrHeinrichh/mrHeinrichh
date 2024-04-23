@@ -4,6 +4,7 @@ Hi there! I'm John Heinrich Fabros, a hybrid creative based in Taguig City. I br
 ## 🌐 Portfolio Website
 You can check out my portfolio website [here](https://mrheinrich.vercel.app).
 
+<a href="https://gitroll.io/profile/uOSfOVJivH3RZw6JBA8KKozsDbjF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOSfOVJivH3RZw6JBA8KKozsDbjF2" alt="GitRoll Profile Badge"/></a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrHeinrichh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrHeinrichh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrHeinrichh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrHeinrichh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrHeinrichhh) 
