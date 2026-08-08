@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there! I'm John Heinrich Fabros, a hybrid creative based in Metro Manila. I bridge the gap between the artistic and technical worlds, working as both a Multimedia Artist and a Software Engineer. On the artistic side, I bring stories and ideas to life through videography, video editing, photography, and graphic design. I also have experience managing social media content. In my software engineering role, I leverage my technical skills in front-end and back-end development, along with database management, to build functional and engaging applications. 
+Hi there! I'm Heinrich, a developer and multimedia artist based in Metro Manila who works best where the technical and creative sides overlap.
+
+As a software engineer, I build full-stack web, mobile, and Web3 apps end to end — front-end, back-end, and the databases underneath — with a recent focus on AI and automation. I enjoy taking a rough idea from an empty repo to a shipped product, keeping things modular and reusable along the way.
+
+As a multimedia artist, I tell stories through videography, video editing, photography, and graphic design, and I've managed social media content from concept to posting.
+
+Two different toolsets, one habit: build it well, make it look good, and ship it.
 
 ## 🌐 Portfolio Website
 You can check out my portfolio website [here](https://mrheinrich.vercel.app).
