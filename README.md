@@ -49,13 +49,13 @@ AI, full-stack, and mobile developer building production web, mobile, AI, and We
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrHeinrichh&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrHeinrichh&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrHeinrichh&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrHeinrichh&theme=github_dark&hide_border=true&layout=compact&langs_count=10" alt="Top languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrHeinrichh&theme=github_dark&utcOffset=8" alt="Productive time" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrHeinrichh&theme=github_dark" alt="Repositories per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrHeinrichh&theme=github_dark" alt="Most committed languages" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrHeinrichh&theme=github_dark&utcOffset=8" alt="Productive time" />
 </p>
 
 <p align="center">
@@ -64,35 +64,26 @@ AI, full-stack, and mobile developer building production web, mobile, AI, and We
 
 ## Highlights
 
-<p align="center">
-  <a href="https://github.com/mrHeinrichh/ryo-bot-studio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=ryo-bot-studio&theme=github_dark&hide_border=true" alt="ryo-bot-studio" />
-  </a>
-  <a href="https://github.com/mrHeinrichh/wagyu-ryochan-hackathon-entry">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=wagyu-ryochan-hackathon-entry&theme=github_dark&hide_border=true" alt="wagyu-ryochan-hackathon-entry" />
-  </a>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| [ryo-bot-studio](https://github.com/mrHeinrichh/ryo-bot-studio) | Trading studio with Rust API, Python analytics, and a Next.js frontend. | TypeScript, Rust, Python |
+| [wagyu-ryochan-hackathon-entry](https://github.com/mrHeinrichh/wagyu-ryochan-hackathon-entry) | Reasoning layer for inspectable RYO market and news decisions. | Rust, AI workflows |
+| [camRent-SaaS](https://github.com/mrHeinrichh/camRent-SaaS) | Camera rental SaaS with customer, owner, and admin flows. | TypeScript, React, Node |
+| [forkdeck](https://github.com/mrHeinrichh/forkdeck) | Visual local Git workspace for branches, diffs, stashes, and commit profiles. | JavaScript |
+
+## Snapshot
 
 <p align="center">
-  <a href="https://github.com/mrHeinrichh/camRent-SaaS">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=camRent-SaaS&theme=github_dark&hide_border=true" alt="camRent-SaaS" />
-  </a>
-  <a href="https://github.com/mrHeinrichh/forkdeck">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=forkdeck&theme=github_dark&hide_border=true" alt="forkdeck" />
-  </a>
-</p>
-
-## Trophies
-
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mrHeinrichh&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img src="https://img.shields.io/github/followers/mrHeinrichh?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/mrHeinrichh/forkdeck?style=for-the-badge&logo=github&label=forkdeck%20stars&color=0e75b6" alt="forkdeck stars" />
+  <img src="https://img.shields.io/github/last-commit/mrHeinrichh/ryo-bot-studio?style=for-the-badge&logo=github&label=latest%20build&color=0e75b6" alt="Latest ryo-bot-studio commit" />
 </p>
 
 ## Support
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mrHeinrichh&icon=0&color=0" alt="Profile visits" />
+  <a href="https://github.com/mrHeinrichh">
+    <img src="https://komarev.com/ghpvc/?username=mrHeinrichh&style=flat-square&color=0e75b6" alt="Profile visits" />
   </a>
   <a href="https://paypal.me/cresenz1">
     <img src="https://img.shields.io/badge/Support-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
