@@ -1,28 +1,100 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="mrHeinrichh's GitHub profile" src="dark_mode.svg" />
+  <img alt="mrHeinrichh's GitHub profile" src="dark_mode.svg" width="100%" />
 </picture>
-##🌐Portfolio Website
-You can check out my portfolio website [here](https://mrheinrich.vercel.app).
 
-<!-- <a href="https://gitroll.io/profile/uOSfOVJivH3RZw6JBA8KKozsDbjF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOSfOVJivH3RZw6JBA8KKozsDbjF2" alt="GitRoll Profile Badge"/></a> -->
+<p align="center">
+  <a href="https://mrheinrich.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-mrheinrich.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/mrHeinrichh">
+    <img src="https://img.shields.io/badge/GitHub-mrHeinrichh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mrHeinrichh">
+    <img src="https://img.shields.io/badge/LinkedIn-mrHeinrichh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mrHeinrichh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrHeinrichh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrHeinrichh) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrHeinrichh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrHeinrichhh) 
+## About
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrHeinrichh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrHeinrichh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrHeinrichh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+AI, full-stack, and mobile developer building production web, mobile, AI, and Web3 apps end to end. I work across Flutter, React/Next.js, Node.js, Firebase, Supabase, and smart-contract integrations, with a habit of shipping fast while keeping projects modular and maintainable.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrHeinrichh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Connect
 
+<p>
+  <a href="https://facebook.com/mrHeinrichh">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/mrHeinrichh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/mrHeinrichh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tiktok.com/@mrHeinrichh">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://x.com/mrHeinrichhh">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=mrHeinrichh&icon=0&color=0)](https://visitcount.itsvg.in)
+## Stack
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cresenz1) 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,flutter,react,nextjs,nodejs,nestjs,firebase,supabase,postgres,mongodb,cs,dotnet,python,rust,php,laravel,tailwind,vercel,figma,git,githubactions" alt="Tech stack icons" />
+</p>
 
-  
+## GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrHeinrichh&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrHeinrichh&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrHeinrichh&theme=github_dark&hide_border=true&layout=compact&langs_count=10" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrHeinrichh&theme=github_dark&utcOffset=8" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrHeinrichh&theme=github-dark&hide_border=true&radius=8" alt="Contribution activity graph" />
+</p>
+
+## Highlights
+
+<p align="center">
+  <a href="https://github.com/mrHeinrichh/ryo-bot-studio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=ryo-bot-studio&theme=github_dark&hide_border=true" alt="ryo-bot-studio" />
+  </a>
+  <a href="https://github.com/mrHeinrichh/wagyu-ryochan-hackathon-entry">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=wagyu-ryochan-hackathon-entry&theme=github_dark&hide_border=true" alt="wagyu-ryochan-hackathon-entry" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrHeinrichh/camRent-SaaS">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=camRent-SaaS&theme=github_dark&hide_border=true" alt="camRent-SaaS" />
+  </a>
+  <a href="https://github.com/mrHeinrichh/forkdeck">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrHeinrichh&repo=forkdeck&theme=github_dark&hide_border=true" alt="forkdeck" />
+  </a>
+</p>
+
+## Trophies
+
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mrHeinrichh&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</p>
+
+## Support
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mrHeinrichh&icon=0&color=0" alt="Profile visits" />
+  </a>
+  <a href="https://paypal.me/cresenz1">
+    <img src="https://img.shields.io/badge/Support-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</p>
