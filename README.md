@@ -1,6 +1,5 @@
-<a href="https://mrheinrich.vercel.app">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrHeinrichh/mrHeinrichh/main/dark_mode.svg">
-    <img alt="John Heinrich Fabros GitHub profile README" src="https://raw.githubusercontent.com/mrHeinrichh/mrHeinrichh/main/light_mode.svg">
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="mrHeinrichh's GitHub profile" src="dark_mode.svg" />
+</picture>
