@@ -20,27 +20,7 @@
 
 AI, full-stack, and mobile developer building production web, mobile, AI, and Web3 apps end to end. I work across Flutter, React/Next.js, Node.js, Firebase, Supabase, and smart-contract integrations, with a habit of shipping fast while keeping projects modular and maintainable.
 
-## Connect
-
-<p>
-  <a href="https://facebook.com/mrHeinrichh">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/mrHeinrichh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/mrHeinrichh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tiktok.com/@mrHeinrichh">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://x.com/mrHeinrichhh">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
-## Stack
+## Stacks
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,redux,react,nextjs,dotnet,flutter,firebase,php,laravel,nodejs,cs,python,postman,mysql,postgres,sqlite,mongodb,azure,aws,digitalocean,docker,git,github,vercel,linux,vscode,androidstudio,apple,githubactions,gitlab,figma" alt="Tech stack icons" />
