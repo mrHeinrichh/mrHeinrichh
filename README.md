@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="mrHeinrichh's GitHub profile" src="dark_mode.svg" />
 </picture>
-## 🌐 Portfolio Website
+##🌐Portfolio Website
 You can check out my portfolio website [here](https://mrheinrich.vercel.app).
 
 <!-- <a href="https://gitroll.io/profile/uOSfOVJivH3RZw6JBA8KKozsDbjF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uOSfOVJivH3RZw6JBA8KKozsDbjF2" alt="GitRoll Profile Badge"/></a> -->
